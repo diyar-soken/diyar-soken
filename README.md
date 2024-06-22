@@ -2,7 +2,7 @@
 I'm Diyar Soken - I'm a student and developer based in Italy, Pisa.
 
 CEO of [Ezar Network](https://github.com/ezarmc).
-In the free time I try to improve my actually knowledge in Java,C++,HTML,CSS.
+In the free time I try to improve my actual knowledge in Java,C++,HTML,CSS.
 
 If you want to get in touch with me
 
