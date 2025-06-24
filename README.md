@@ -11,4 +11,4 @@ If you want to get in touch with me
  :left_speech_bubble: Telegram: [@diyarweila](https://t.me/diyarweila)
 
 
-[![Languages and Tools](https://skillicons.dev/icons?i=java,c,html,css,angular,spring-boot)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=java,c,html,css,angular,springboot)](https://skillicons.dev)
