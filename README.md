@@ -6,7 +6,7 @@ In the free time I try to improve my actual knowledge in Java,C++,PHP,HTML,CSS, 
 
 If you want to get in touch with me
 
- :email: Email: diyar.soken@davincifascetti.it
+ :email: Email: diyar.soken@icloud.com
 
 
 [![Languages and Tools](https://skillicons.dev/icons?i=php,js,java,c,html,css,angular,spring,mysql,redis,mongodb,typescript)](https://skillicons.dev)
